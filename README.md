@@ -59,7 +59,7 @@ This project uses the NYC Yellow Taxi trip data for January 2023.
 
 You can download the data from the following link:
 
-    [NYC Yellow Taxi Trip Data (PARQUET)](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet)
+[NYC Yellow Taxi Trip Data (PARQUET)](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet)
 
 ## Contributing
 
